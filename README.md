@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ibb.co/mymyDYK.jpg" alt="SELF-HX" width="300" />
+<img src="https://i.ibb.co/GMXMx1D/fake.png" alt="fake" border="0">
 
 # RyuuOfficial
 
